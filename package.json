@@ -7,6 +7,7 @@
     "test": "playwright test",
     "test:debug": "playwright test --debug",
     "test:positive": "playwright test --grep @positive",
+    "test:negative": "playwright test --grep @negative",
     "lint": "eslint . --ext .ts"
   },
   "keywords": [],

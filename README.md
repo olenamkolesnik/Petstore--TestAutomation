@@ -178,12 +178,10 @@ Petstore-TestAutomation/
 - Valid input validation
 - Expected success responses
 
-**Negative Business Tests** (`@negative-business` tag):
+**Negative Tests** (`@negative` tag):
 - Invalid business logic scenarios
 - Boundary condition tests
 - Resource not found scenarios
-
-**Negative Protocol Tests** (`@negative-protocol` tag):
 - Invalid request formats
 - Missing required fields
 - Malformed data
