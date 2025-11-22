@@ -4,6 +4,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-3178C6?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)
 ![License](https://img.shields.io/badge/License-ISC-yellow)
+![Playwright Tests](https://github.com/olenamkolesnik/Petstore--TestAutomation/actions/workflows/playwright.yml/badge.svg)
+[![Test Report](https://img.shields.io/badge/Report-Playwright-blue)](https://olenamkolesnik.github.io/Petstore--TestAutomation/)
+
 
 A comprehensive test automation suite for the **Petstore API** using **Playwright** and **TypeScript**. This project includes API testing for user management endpoints with extensive test coverage, schema validation, retry mechanisms, and structured logging.
 
